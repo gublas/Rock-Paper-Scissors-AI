@@ -8,4 +8,5 @@ from main import Game
 
 game = Game()
 game.train(100000, lr=0.3, gamma=0.8)
-game.play()```
+game.play()
+```
